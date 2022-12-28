@@ -45,7 +45,7 @@ async def about(_, message: Message):
                               "\n\n  - <b>Creator</b>      : <a href=\"https://t.me/Old_worlds_map/\">Kevin</a>"
                               "\n\n  - <b>Language</b>  : <a href=\"https://www.python.org/\">Python 3</a>"
                               "\n\n  - <b>Library</b>       : <a href=\"https://docs.pyrogram.org/\">PYROGRAM</a>"
-                              "\n\n  - <b>Source Code</b>  : <a href=\"https://github.com/raveen2k3/AiChanBot\">Source Code</a>",    
+                              "\n\n  - <b>Source Code</b>  : <a href=\"https://te.legra.ph/file/01b16b3e5a2931e4441d9.jpg\">Source Code</a>",    
         disable_web_page_preview = True ,
         reply_markup = InlineKeyboardMarkup(keyboard)
      )
