@@ -34,7 +34,7 @@ async def about(_, message: Message):
                                           url="https://t.me/AppleXEmpire"),
             InlineKeyboardButton("🚑Support",
                                           url="https://t.me/ENGLISH_SPEAKERSSS"),
-            InlineKeyboardButton("SHARE",url="https://t.me/share/url?url=https://t.me/AiChan69Bot")
+            InlineKeyboardButton("SHARE",url="https://t.me/share/url?url=https://t.me/Apple_Aibot")
         ],
     ]
     await message.reply_text(text =
