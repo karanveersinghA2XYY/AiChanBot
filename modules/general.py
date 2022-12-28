@@ -30,7 +30,7 @@ async def start(_, message: Message):
 async def about(_, message: Message):
     keyboard = [
         [
-            InlineKeyboardButton("Updates",
+            InlineKeyboardButton("📣Updates",
                                           url="https://t.me/BakaForum"),
             InlineKeyboardButton("Support",
                                           url="https://t.me/BakaForum"),
