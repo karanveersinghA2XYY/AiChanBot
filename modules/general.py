@@ -41,7 +41,7 @@ async def about(_, message: Message):
                               "<b>Hey! Im AI-CHAN.</b>"
                               "\nI can help you explore many stuffs ,ask me anything."
                               "\n\n<b>About Me :</b>"
-                              "\n\n  - <b>Name</b>        : <a href=\"https://t.me/Old_worlds_map/\">Kevin </a>"
+                              "\n\n  - <b>Name</b>        : <a href=\"https://t.me/Apple_Aibot/\">Apple </a>"
                               "\n\n  - <b>Creator</b>      : <a href=\"https://t.me/its_raveen/\">Raveen</a>"
                               "\n\n  - <b>Language</b>  : <a href=\"https://www.python.org/\">Python 3</a>"
                               "\n\n  - <b>Library</b>       : <a href=\"https://docs.pyrogram.org/\">PYROGRAM</a>"
