@@ -16,8 +16,8 @@ async def start(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("About", callback_data="About"),
-                    InlineKeyboardButton("Help" , callback_data="Help")
+                    InlineKeyboardButton("⚡About", callback_data="⚡About"),
+                    InlineKeyboardButton("📓Help" , callback_data="📓Help")
                 ]
             ]
         ),
