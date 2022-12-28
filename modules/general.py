@@ -64,7 +64,7 @@ async def donate(_, message: Message):
     await neko.send_animation(chat_id, animation=donate_sus ,caption=sponsor_msg , reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="Support", url="https://telegram.me/BakaForum"),
+                    InlineKeyboardButton(text="🚑Support", url="https://telegram.me/ENGLISH_SPEAKERSSS"),
                     InlineKeyboardButton(text="Donate" , url="https://github.com/sponsors/raveen2k3") ,
                     
                     
