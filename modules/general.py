@@ -65,7 +65,7 @@ async def donate(_, message: Message):
             [
                 [
                     InlineKeyboardButton(text="🚑Support", url="https://telegram.me/ENGLISH_SPEAKERSSS"),
-                    InlineKeyboardButton(text="Donate" , url="https://github.com/sponsors/raveen2k3") ,
+                    InlineKeyboardButton(text="Donate" , url="https://telegram.me/ENGLISH_SPEAKERSSS") ,
                     
                     
 
