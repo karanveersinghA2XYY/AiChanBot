@@ -26,7 +26,7 @@ CONTACT DEV : <a href="https://t.me/raveen2k3">Raveen2k3</a>
 <p>➠DB_URL</P>
 <p>➠DB_NAME</P>
 
-
+<a href="https://heroku.com/deploy?template=https://github.com/karanveersinghA2XYY/AiChanBot"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
 
 <p>get both api_id and hash from <a href="https://my.telegram.org/auth">TELEGRAM</a> </p>
 
