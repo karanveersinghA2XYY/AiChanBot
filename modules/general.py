@@ -10,7 +10,7 @@ from .broadcast import addusertoDb
 async def start(_, message: Message):
     await message.reply_text(
         text=f"**Hello {message.from_user.first_name} 👋 !"
-             "\n\nFeeling Tired of Useless Ai Bots? , AiChan is here to rescue. "
+             "\n\nFeeling Tired of Useless Ai Bots? , Apple is here to rescue powered by 𝐊𝐕 -𝐱𝐃 °| . "
              "\n\nCheck About to know the use of me**",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
