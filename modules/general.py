@@ -99,22 +99,22 @@ async def cb_handler(_, query: CallbackQuery):
         
         keyboard = [
             [
-                InlineKeyboardButton("Updates",
-                                            url="https://t.me/BakaForum"),
-                InlineKeyboardButton("Support",
-                                            url="https://t.me/BakaForum"),
-                InlineKeyboardButton("Share",url="https://t.me/share/url?url=https://t.me/AiChan69Bot")
+                InlineKeyboardButton("📣Updates",
+                                            url="https://t.me/AppleXEmpire"),
+                InlineKeyboardButton("🚑Support",
+                                            url="https://t.me/ENGLISH_SPEAKERSSS"),
+                InlineKeyboardButton("Share",url="https://t.me/share/url?url=https://t.me/Apple_Aibot")
             ],
                     ]
         await query.message.edit_text(text =
                                 "<b>Hey! Im AI-CHAN.</b>"
                                 "\nI can help you explore many stuffs ,ask me anything."
                                 "\n\n<b>About Me :</b>"
-                                "\n\n  - <b>Name</b>         : <a href=\"https://t.me/its_raveen/\">Ai Chan</a>"
-                                "\n\n  - <b>Creator</b>      : <a href=\"https://t.me/BakaForum/\">Raveen</a>"
+                                "\n\n  - <b>Name</b>         : <a href=\"https://t.me/Apple_Aibot/\">Apple</a>"
+                                "\n\n  - <b>Creator</b>      : <a href=\"https://t.me/Old_worlds_map/\">Kevin</a>"
                                 "\n\n  - <b>Language</b>     : <a href=\"https://www.python.org/\">Python 3</a>"
                                 "\n\n  - <b>Library</b>      : <a href=\"https://docs.pyrogram.org/\">PYROGRAM</a>"
-                                "\n\n  - <b>Source Code</b>  : <a href=\"https://github.com/raveen2k3/AiChanBot\">Source Code</a>",    
+                                "\n\n  - <b>Source Code</b>  : <a href=\"https://te.legra.ph/file/01b16b3e5a2931e4441d9.jpg\">Source Code</a>",    
             disable_web_page_preview = True ,
             reply_markup = InlineKeyboardMarkup(keyboard)
             
@@ -125,10 +125,10 @@ async def cb_handler(_, query: CallbackQuery):
         keyboard = [
             [
                 InlineKeyboardButton("Announcements",
-                                            url="https://t.me/BakaForum"),
-                InlineKeyboardButton("Support",
-                                            url="https://t.me/BakaForum"),
-                InlineKeyboardButton("Share",url="https://t.me/share/url?url=https://t.me/AiChan69Bot")
+                                            url="https://t.me/Old_worlds_map"),
+                InlineKeyboardButton("🚑Support",
+                                            url="https://t.me/ENGLISH_SPEAKERSSS"),
+                InlineKeyboardButton("Share",url="https://t.me/share/url?url=https://t.me/Apple_Aibot")
             ],
                     ]
         help_text ="""Hey Mate first checkout my /guidelines
