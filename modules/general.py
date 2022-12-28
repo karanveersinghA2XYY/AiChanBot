@@ -31,9 +31,9 @@ async def about(_, message: Message):
     keyboard = [
         [
             InlineKeyboardButton("📣Updates",
-                                          url="https://t.me/BakaForum"),
-            InlineKeyboardButton("Support",
-                                          url="https://t.me/BakaForum"),
+                                          url="https://t.me/AppleXEmpire"),
+            InlineKeyboardButton("🚑Support",
+                                          url="https://t.me/ENGLISH_SPEAKERSSS"),
             InlineKeyboardButton("SHARE",url="https://t.me/share/url?url=https://t.me/AiChan69Bot")
         ],
     ]
